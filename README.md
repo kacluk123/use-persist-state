@@ -1,8 +1,11 @@
 # React Persist State
 
-Library for caching state
+Library for caching state, with 
 
 # Usage
+
+Similar as ```setState``` api, only diffrence is that you need to provide unique key as second argument to ```usePersistState``` function.
+
 Provider:
 ```
 import { PersistStateProvider } from 'use-persist-state'
