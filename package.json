@@ -33,6 +33,10 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kacluk123/use-persist-state.git"
+  },
   "name": "use-persist-state",
   "author": "Kacper Łukasik",
   "module": "dist/use-persist-state.esm.js",
