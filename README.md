@@ -5,13 +5,13 @@ Library for caching state
 # Usage
 Provider:
 ```
-import { PersisStateProvider } from 'use-persist-state'
+import { PersitStateProvider } from 'use-persist-state'
 
 function Index() {
   return (
-    <PersisStateProvider>
+    <PersitStateProvider>
       <App />
-    </PersisStateProvider>
+    </PersitStateProvider>
   );
 }
 ```
