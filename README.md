@@ -1,6 +1,6 @@
 # React Persist State
 
-**Lightweight library for caching state**
+**Lightweight library for caching state during current session**
 
 ## Features
 - ✅ Caching state inside react components and custom hooks
