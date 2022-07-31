@@ -1,10 +1,16 @@
 # React Persist State
 
-Library for caching state, with 
+** Lightweight library for caching state **
 
-# Usage
+## Features
+- ✅ Caching state inside react components and custom hooks
+- ✅ Not using local storage
+- ✅ No additional dependencies
+- ✅ Super Lightweight (only 21kb unpacked!)
+- ✅ Same usage as original ```useState``` api
+## Usage
 
-Similar as ```setState``` api, only diffrence is that you need to provide unique key as second argument to ```usePersistState``` function.
+Similar to ```setState``` api, only diffrence is that you need to provide unique key as second argument to ```usePersistState``` function.
 
 Provider:
 ```
