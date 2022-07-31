@@ -1,7 +1,7 @@
-import { useCachedState } from './useCachedState'
-import { CachedStateProvider } from './CachedStateProvider'
+import { useCachedState as usePersistState } from './useCachedState'
+import { CachedStateProvider as PersisStateProvider } from './CachedStateProvider'
 
 export {
-  useCachedState,
-  CachedStateProvider
+  usePersistState,
+  PersisStateProvider
 }
